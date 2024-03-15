@@ -9,9 +9,9 @@ Um programa Python é apresentado para verificar se um número pertence à sequ�
 
 4. Puzzles Matemáticos
 Esta seção aborda puzzles matemáticos, incluindo:
-
 Descobrindo os Interruptores e Lâmpadas: Um problema onde é necessário determinar qual interruptor controla cada lâmpada, com apenas duas idas até uma das salas.
 Sequências Lógicas: Identificação da lógica por trás de várias sequências numéricas.
+
 5. Inversão de String
 Um programa Python que inverte os caracteres de uma string é apresentado. A função inverte_string realiza essa operação sem usar funções prontas como reverse.
 
